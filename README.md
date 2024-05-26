@@ -8,4 +8,5 @@ Meu nome é Victor Barbosa
 
 - uso isso para compartilhar meus projetos desenvolvidos
 
-[Uploading code-works-code-not-working.gif…]()
+![code-works-code-not-working](https://github.com/VictorBarbosaDC/VictorBarbosaDC/assets/170454991/48c53e3d-2a10-4325-9926-d601acc6276b)
+
