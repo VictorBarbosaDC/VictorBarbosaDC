@@ -8,5 +8,4 @@ Meu nome é Victor Barbosa
 
 - uso isso para compartilhar meus projetos desenvolvidos
 
-![Uploading code-works-code-not-working.gif…]()
-
+[Uploading code-works-code-not-working.gif…]()
